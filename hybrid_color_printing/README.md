@@ -17,7 +17,7 @@ Ghostscript 9.55 or better is required and it's executable must be in `$PATH`.
    select Path, Edit, New and Browse to directory where Ghostscript is installed, for e.g. 
    `C:\Program Files\gs\gs9.55.0\bin\`
    
-###Usage
+### Usage
 
 `hybrid_color_printing.py file.pdf`
 
