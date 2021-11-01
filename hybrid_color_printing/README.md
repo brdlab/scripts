@@ -21,7 +21,8 @@ Ghostscript 9.55 or better is required and it's executable must be in `$PATH`.
 
 `hybrid_color_printing.py file.pdf`
 
-By default, output is list of color and b/w pages in ranged list format (e.g. 1-7,13,14,34-65).
+By default, output is list of color and b/w pages in ranged list format (e.g. 1-7,13,14,34-65). This can be input directly
+ in your print dialogue boxes
 
 `hybrid_color_printing.py file.pdf -F`
 
